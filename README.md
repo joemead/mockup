@@ -1,7 +1,5 @@
-mockup
+User Stories
 ======
-
-User Stories and HTML Mockup Pages
 
 1) A user will be able to listen to an audio clip.<br>
 2) A user will be able to rate an audio clip.<br>
